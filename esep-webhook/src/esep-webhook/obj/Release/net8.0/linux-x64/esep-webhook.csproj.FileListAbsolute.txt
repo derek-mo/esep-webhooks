@@ -1,0 +1,17 @@
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\bin\Release\net8.0\linux-x64\esep-webhook.deps.json
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\bin\Release\net8.0\linux-x64\esep-webhook.runtimeconfig.json
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\bin\Release\net8.0\linux-x64\esep-webhook.dll
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\bin\Release\net8.0\linux-x64\esep-webhook.pdb
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\obj\Release\net8.0\linux-x64\esep-webhook.csproj.AssemblyReference.cache
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\obj\Release\net8.0\linux-x64\esep-webhook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\obj\Release\net8.0\linux-x64\esep-webhook.AssemblyInfoInputs.cache
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\obj\Release\net8.0\linux-x64\esep-webhook.AssemblyInfo.cs
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\obj\Release\net8.0\linux-x64\esep-webhook.csproj.CoreCompileInputs.cache
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\obj\Release\net8.0\linux-x64\esep-web.9CC7B1ED.Up2Date
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\obj\Release\net8.0\linux-x64\esep-webhook.dll
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\obj\Release\net8.0\linux-x64\refint\esep-webhook.dll
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\obj\Release\net8.0\linux-x64\esep-webhook.pdb
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\obj\Release\net8.0\linux-x64\esep-webhook.genruntimeconfig.cache
+D:\Coding\Github\esep-webhooks\esep-webhook\src\esep-webhook\obj\Release\net8.0\linux-x64\ref\esep-webhook.dll
